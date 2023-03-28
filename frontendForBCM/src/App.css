@@ -1,0 +1,19 @@
+.btn:hover {
+    background-color: #404040;
+
+}
+.box {
+    width: 82%;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+    height: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: Silver;
+}
+.borLen{
+    /* position: relative; */
+    border-bottom: 2px solid black;
+    right: 6%;
+}
+
